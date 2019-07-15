@@ -22,5 +22,6 @@ CLASS ZCL_ABAP IMPLEMENTATION.
   method METHOD_1.
     b = a.
     write: b.
+    write: a.
   endmethod.
 ENDCLASS.
