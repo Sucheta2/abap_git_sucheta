@@ -24,5 +24,6 @@ CLASS ZCL_ABAP IMPLEMENTATION.
     write: b.
     write: a.
     write: a.
+    write: 'Changed by Sucheta'.
   endmethod.
 ENDCLASS.
