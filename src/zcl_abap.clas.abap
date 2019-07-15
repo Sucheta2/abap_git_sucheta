@@ -25,6 +25,6 @@ CLASS ZCL_ABAP IMPLEMENTATION.
     write: a.
     write: a.
     write: 'Changed by Sucheta'.
-    Write: 'Changed from ABAP program by SK'.
+    Write: 'Changed from ABAP program by SKM'.
   endmethod.
 ENDCLASS.
