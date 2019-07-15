@@ -24,6 +24,6 @@ CLASS ZCL_ABAP IMPLEMENTATION.
     write: b.
     write: a.
     write: a.
-    write: 'Changed By SKM'.
+    write: 'Changed By SKM '.
   endmethod.
 ENDCLASS.
