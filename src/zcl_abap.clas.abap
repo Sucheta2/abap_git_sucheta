@@ -4,6 +4,12 @@ class ZCL_ABAP definition
   create public .
 
 public section.
+
+  class-methods METHOD_1
+    importing
+      !A type I
+    exporting
+      !B type I .
 protected section.
 private section.
 ENDCLASS.
@@ -11,4 +17,8 @@ ENDCLASS.
 
 
 CLASS ZCL_ABAP IMPLEMENTATION.
+
+
+  method METHOD_1.
+  endmethod.
 ENDCLASS.
